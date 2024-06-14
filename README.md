@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ivan Delville (Popov505)
+- 👀 I’m interested in Web dev
+- 🌱 I’m currently learning Angular
+- 📫 How to reach me : ivandelville@gmail.com
